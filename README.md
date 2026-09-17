@@ -1,6 +1,6 @@
 # Atividade Cypress + GitHub Actions
 
-## Integrantes
+## Integrante
 
 Nicholas Anthony Ferreira Braz
 
