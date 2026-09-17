@@ -1,6 +1,8 @@
 # Atividade Cypress + GitHub Actions
-Integrantes
+
+## Integrantes
+
 Nicholas Anthony Ferreira Braz
 
-Turma
+### Turma
 Período da Tarde
