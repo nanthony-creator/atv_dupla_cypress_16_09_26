@@ -1,4 +1,4 @@
-# atv_dupla_cypress_16_09_26
+# Atividade Cypress + GitHub Actions
 Integrantes
 Nicholas Anthony Ferreira Braz
 
